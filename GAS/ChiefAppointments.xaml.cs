@@ -12,7 +12,8 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
-using GASLibrary;
+using GASDBLibrary
+
 
 namespace WpfApp8
 {
@@ -21,7 +22,6 @@ namespace WpfApp8
     /// </summary>
     public partial class ManagerAppointments : Page
     {
-
         GASDBEntities db = new GASDBEntities("metadata=res://*/GASModel.csdl|res://*/GASModel.ssdl|res://*/GASModel.msl;provider=System.Data.SqlClient;provider connection string='data source=192.168.178.48;initial catalog=GASDB;user id=GASuser;password= winter2018;MultipleActiveResultSets=True;App=EntityFramework'");
 
         List<Appointment> App = new List<Appointment>();

@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="GASDBModelStoreContainer" CdmEntityContainer="GASDBEntities">
+    <EntitySetMapping Name="AccessLevels">
+      <EntityTypeMapping TypeName="GASDBModel.AccessLevel">
+        <MappingFragment StoreEntitySet="AccessLevel">
+          <ScalarProperty Name="LevelId" ColumnName="LevelId" />
+          <ScalarProperty Name="JobRole" ColumnName="JobRole" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Appointments">
+      <EntityTypeMapping TypeName="GASDBModel.Appointment">
+        <MappingFragment StoreEntitySet="Appointment">
+          <ScalarProperty Name="VisitorName" ColumnName="VisitorName" />
+          <ScalarProperty Name="AppointmentId" ColumnName="AppointmentId" />
+          <ScalarProperty Name="DateTime" ColumnName="DateTime" />
+          <ScalarProperty Name="PassportNo" ColumnName="PassportNo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Logs">
+      <EntityTypeMapping TypeName="GASDBModel.Log">
+        <MappingFragment StoreEntitySet="Log">
+          <ScalarProperty Name="LogId" ColumnName="LogId" />
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+          <ScalarProperty Name="Category" ColumnName="Category" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="DateTime" ColumnName="DateTime" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Purposes">
+      <EntityTypeMapping TypeName="GASDBModel.Purpose">
+        <MappingFragment StoreEntitySet="Purpose">
+          <ScalarProperty Name="PurposeId" ColumnName="PurposeId" />
+          <ScalarProperty Name="PurposeName" ColumnName="PurposeName" />
+          <ScalarProperty Name="PassportNo" ColumnName="PassportNo" />
+          <ScalarProperty Name="DateTime" ColumnName="DateTime" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Users">
+      <EntityTypeMapping TypeName="GASDBModel.User">
+        <MappingFragment StoreEntitySet="User">
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="forename" ColumnName="forename" />
+          <ScalarProperty Name="Surname" ColumnName="Surname" />
+          <ScalarProperty Name="LevelId" ColumnName="LevelId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

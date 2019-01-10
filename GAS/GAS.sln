@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GAS", "GAS.csproj", "{55413018-9DEA-4454-A150-F38BFD1D1543}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GASDBLibrary", "GASDBLibrary\GASDBLibrary.csproj", "{A84C785D-2968-49E1-A2B5-826F896FE327}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55413018-9DEA-4454-A150-F38BFD1D1543}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55413018-9DEA-4454-A150-F38BFD1D1543}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55413018-9DEA-4454-A150-F38BFD1D1543}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55413018-9DEA-4454-A150-F38BFD1D1543}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A84C785D-2968-49E1-A2B5-826F896FE327}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A84C785D-2968-49E1-A2B5-826F896FE327}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A84C785D-2968-49E1-A2B5-826F896FE327}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A84C785D-2968-49E1-A2B5-826F896FE327}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39DEF701-9E6A-4B04-9E09-B425AAD6060B}
+	EndGlobalSection
+EndGlobal

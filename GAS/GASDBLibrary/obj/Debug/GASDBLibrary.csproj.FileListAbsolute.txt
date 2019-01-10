@@ -1,0 +1,12 @@
+G:\LYIT Jani\CA3\RepoGAS\RepoGAS\GAS\GASDBLibrary\bin\Debug\GASDBLibrary.dll.config
+G:\LYIT Jani\CA3\RepoGAS\RepoGAS\GAS\GASDBLibrary\bin\Debug\GASDBLibrary.dll
+G:\LYIT Jani\CA3\RepoGAS\RepoGAS\GAS\GASDBLibrary\bin\Debug\GASDBLibrary.pdb
+G:\LYIT Jani\CA3\RepoGAS\RepoGAS\GAS\GASDBLibrary\bin\Debug\EntityFramework.dll
+G:\LYIT Jani\CA3\RepoGAS\RepoGAS\GAS\GASDBLibrary\bin\Debug\EntityFramework.SqlServer.dll
+G:\LYIT Jani\CA3\RepoGAS\RepoGAS\GAS\GASDBLibrary\bin\Debug\EntityFramework.xml
+G:\LYIT Jani\CA3\RepoGAS\RepoGAS\GAS\GASDBLibrary\bin\Debug\EntityFramework.SqlServer.xml
+G:\LYIT Jani\CA3\RepoGAS\RepoGAS\GAS\GASDBLibrary\obj\Debug\GASDBLibrary.csprojAssemblyReference.cache
+G:\LYIT Jani\CA3\RepoGAS\RepoGAS\GAS\GASDBLibrary\obj\Debug\GASDBLibrary.csproj.CoreCompileInputs.cache
+G:\LYIT Jani\CA3\RepoGAS\RepoGAS\GAS\GASDBLibrary\obj\Debug\GASDBLibrary.csproj.CopyComplete
+G:\LYIT Jani\CA3\RepoGAS\RepoGAS\GAS\GASDBLibrary\obj\Debug\GASDBLibrary.dll
+G:\LYIT Jani\CA3\RepoGAS\RepoGAS\GAS\GASDBLibrary\obj\Debug\GASDBLibrary.pdb
