@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GAS", "GAS.csproj", "{55413
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GASDBLibrary", "GASDBLibrary\GASDBLibrary.csproj", "{A84C785D-2968-49E1-A2B5-826F896FE327}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GASLibrary.Tests", "..\..\..\..\GASLibrary.Tests\GASLibrary.Tests.csproj", "{2088C328-AE2E-408F-9565-FA424391A469}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{A84C785D-2968-49E1-A2B5-826F896FE327}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A84C785D-2968-49E1-A2B5-826F896FE327}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A84C785D-2968-49E1-A2B5-826F896FE327}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2088C328-AE2E-408F-9565-FA424391A469}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2088C328-AE2E-408F-9565-FA424391A469}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2088C328-AE2E-408F-9565-FA424391A469}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2088C328-AE2E-408F-9565-FA424391A469}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

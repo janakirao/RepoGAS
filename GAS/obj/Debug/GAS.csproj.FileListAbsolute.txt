@@ -14,3 +14,6 @@ G:\LYIT Jani\Project work - CA2\Project_BSAS\BSAS\obj\Debug\WpfApp8_MarkupCompil
 G:\LYIT Jani\Project work - CA2\Project_BSAS\BSAS\obj\Debug\WpfApp8_MarkupCompile.lref
 G:\LYIT Jani\Project work - CA2\Project_BSAS\BSAS\obj\Debug\WpfApp8.exe
 G:\LYIT Jani\Project work - CA2\Project_BSAS\BSAS\obj\Debug\WpfApp8.pdb
+G:\LYIT Jani\CA3\RepoGAS\RepoGAS\GAS\obj\Debug\GAS.csprojAssemblyReference.cache
+G:\LYIT Jani\CA3\RepoGAS\RepoGAS\GAS\obj\Debug\WpfApp8.exe
+G:\LYIT Jani\CA3\RepoGAS\RepoGAS\GAS\obj\Debug\WpfApp8.pdb
